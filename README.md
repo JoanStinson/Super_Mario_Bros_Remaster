@@ -1,4 +1,5 @@
-# Super-Mario-Bros
-Remake Super Mario Bros (Phaser)
+# Super Mario Bros Remaster (Phaser)
+
+Play it [here](https://johnnyginard.itch.io/smb)! 
 
 ![](mario.gif)
